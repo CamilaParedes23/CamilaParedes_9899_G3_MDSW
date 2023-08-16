@@ -5,7 +5,7 @@
            
             <div class="container">
         <p class="title is-1 has-text-weight-bold has-text-white has-text-centered titulo">
-            Sistema Restobar Illari andres <br>
+            Sistema Restobar Illari <br>
             <b-icon
                 icon="account"
                 size="is-large"
